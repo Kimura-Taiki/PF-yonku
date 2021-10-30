@@ -25,6 +25,8 @@ p:
 ・　夜遅くに帰ってくる駅利用社会人の夕食調達.  
 
 ## 設計書
+- WBS表(中途) https://docs.google.com/spreadsheets/d/1QjuTMcl46Fij7xRHqVyPxJFoLmYZB6-ackDPNz-JcU8/edit#gid=1773513600
+- 顧客側UIワイヤーフレーム https://dochub.com/taiguimucun850/ALzmZB7wMbAAJkERX8J560/%E9%A1%A7%E5%AE%A2%E5%81%B4ui%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-pdf
 (製作中、製作後に逐次URLを追加)
 
 ## チャレンジ要素一覧
