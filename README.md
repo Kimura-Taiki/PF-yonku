@@ -1,6 +1,7 @@
-# 業務委託駅でもコンビニがあったら良いよね♪
+# 田舎の駅でもコンビニがあったら良いよね♪
 
 ## サイト概要
+- サイト概念図 https://drive.google.com/file/d/1epw1sOgTa54iGkR4gYoUiOXTS4Gl0HNq/view?usp=sharing
 スマホで商品を注文すると、最寄りのロッカーに商品が数分後に届来ます。  
 商品が届いたロッカーは注文したスマホでQRコードを読み取る事で開錠されます。  
 
@@ -16,8 +17,8 @@ p:なので、田舎の駅でもコンビニの商品を買えるようなこの
 ### ターゲットユーザ
 P:1日平均乗車人数1000人〜2000人程度の地方駅利用者、特に朝夕の通学通勤者です。  
 r:何故なら、この時間帯の客を拾うためには人件費が掛かり過ぎるためです。  
-e:例えば、自分の町の駅にキヨスクが残っていた時は、ワンマンスタッフ配置の関係から営業時間が8:30~13:30,14:30~17:30となっており、全く通勤通学者の需要を拾えていませんでした。  
-p:  
+e:例えば、自分の町の駅にキヨスクが残っていた時は、ワンマンスタッフ配置の関係から営業時間が8:30〜13:30,14:30〜17:30となっており、全く通学通勤者の需要を拾えていませんでした。  
+p:なので、この人達のコンビニ利用需要はまだ満たされていないと思います。  
 
 ### 主な利用シーン
 ・　朝の時間に余裕の無い駅利用学生の朝昼食調達.  
@@ -25,12 +26,12 @@ p:
 ・　夜遅くに帰ってくる駅利用社会人の夕食調達.  
 
 ## 設計書
-- WBS表(中途) https://docs.google.com/spreadsheets/d/1QjuTMcl46Fij7xRHqVyPxJFoLmYZB6-ackDPNz-JcU8/edit#gid=1773513600
-- 顧客側UIワイヤーフレーム(注文までで商品受け取り段階のUIがまだ未定) https://dochub.com/taiguimucun850/ALzmZB7wMbAAJkERX8J560/%E9%A1%A7%E5%AE%A2%E5%81%B4ui%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-pdf
-(製作中、製作後に逐次URLを追加)
+- WBS表(中途) https://docs.google.com/spreadsheets/d/1QjuTMcl46Fij7xRHqVyPxJFoLmYZB6-ackDPNz-JcU8/edit?usp=sharing
+- 顧客側UIワイヤーフレーム(注文までで商品受け取り段階のUIがまだ未定) https://drive.google.com/file/d/1D9FHTNf4OQITsej8DJLWtdVOXspuIw2t/view?usp=sharing
+- (製作中、製作後に逐次URLを追加)
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1KqzNOwY6TlChUK4Pes3eZa2O9O-cRwsyGoV2wlY4LWQ/edit#gid=0>
+- https://docs.google.com/spreadsheets/d/1KqzNOwY6TlChUK4Pes3eZa2O9O-cRwsyGoV2wlY4LWQ/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
