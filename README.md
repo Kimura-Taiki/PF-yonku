@@ -30,6 +30,7 @@ p:なので、この人達のコンビニ利用需要はまだ満たされてい
 - 顧客側UIワイヤーフレーム(注文までで商品受け取り段階のUIがまだ未定) https://drive.google.com/file/d/1D9FHTNf4OQITsej8DJLWtdVOXspuIw2t/view?usp=sharing
 - 小売側UIワイヤーフレーム　https://drive.google.com/file/d/1E9NgTKNnTbFMY_j_UWVWOHQs3o2fDDyi/view?usp=sharing
 - ER図 https://drive.google.com/file/d/16zm_P7Vd_59k_cnT7nIp6x-zQn1uLcb2/view?usp=sharing
+- テーブル定義書 https://docs.google.com/spreadsheets/d/1elWubWSbsANmMPDUpGjeARJyIGBEsZAsI0QmtdHODls/edit?usp=sharing
 - (製作中、製作後に逐次URLを追加)
 
 ## チャレンジ要素一覧
