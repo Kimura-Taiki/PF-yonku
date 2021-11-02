@@ -2,8 +2,8 @@
 
 ## サイト概要
 - サイト概念図 https://drive.google.com/file/d/1epw1sOgTa54iGkR4gYoUiOXTS4Gl0HNq/view?usp=sharing
-スマホで商品を注文すると、最寄りのロッカーに商品が数分後に届来ます。  
-商品が届いたロッカーは注文したスマホでQRコードを読み取る事で開錠されます。  
+- スマホで商品を注文すると、最寄りのロッカーに商品が数分後に届来ます。
+- 商品が届いたロッカーは注文したスマホでQRコードを読み取る事で開錠されます。
 
 ### サイトテーマ
 コンビニまで行かずにコンビニ商品を買う
@@ -28,6 +28,7 @@ p:なので、この人達のコンビニ利用需要はまだ満たされてい
 ## 設計書
 - WBS表(中途) https://docs.google.com/spreadsheets/d/1QjuTMcl46Fij7xRHqVyPxJFoLmYZB6-ackDPNz-JcU8/edit?usp=sharing
 - 顧客側UIワイヤーフレーム(注文までで商品受け取り段階のUIがまだ未定) https://drive.google.com/file/d/1D9FHTNf4OQITsej8DJLWtdVOXspuIw2t/view?usp=sharing
+- 小売側UIワイヤーフレーム　https://drive.google.com/file/d/1E9NgTKNnTbFMY_j_UWVWOHQs3o2fDDyi/view?usp=sharing
 - (製作中、製作後に逐次URLを追加)
 
 ## チャレンジ要素一覧
